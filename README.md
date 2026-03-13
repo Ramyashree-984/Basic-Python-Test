@@ -1,1 +1,1 @@
-File is about visualization deatils in Python for Machine Learning.
+File is about visualization details in Python for Machine Learning.
